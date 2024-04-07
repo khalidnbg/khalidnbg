@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khalidnbg&label=Profile%20views&color=0e75b6&style=flat" alt="khalidnbg" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/knbg02" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/knbg02?logo=twitter&style=for-the-badge" alt="https://twitter.com/knbg02" /></a> </p>
+<p align="left"> <a href="https://twitter.com/knbg02" target="blank"><img src="https://img.shields.io/twitter/follow/knbg02?logo=twitter&style=for-the-badge" alt="knbg02" /></a> </p>
 
 - 🔭 I’m currently working on **BLOG with nextJs**
 
@@ -21,12 +21,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/knbg02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/knbg02" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/khalid-nabgaoui-b17b73189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khalid-nabgaoui-b17b73189/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19565728/khalid-nbg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19565728/khalid-nbg" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/khalidnabgaoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/khalidnabgaoui" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/khalid_nbg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/khalid_nbg/" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/khalidnbg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/khalidnbg" height="30" width="40" /></a>
+<a href="https://twitter.com/knbg02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="knbg02" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/khalid-nabgaoui-b17b73189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khalid-nabgaoui-b17b73189" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19565728/khalid-nbg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19565728/khalid-nbg" height="30" width="40" /></a>
+<a href="https://kaggle.com/khalidnabgaoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="khalidnabgaoui" height="30" width="40" /></a>
+<a href="https://instagram.com/khalid_nbg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khalid_nbg" height="30" width="40" /></a>
+<a href="https://dribbble.com/khalidnbg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="khalidnbg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
