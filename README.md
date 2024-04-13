@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXv5iuf_CmEfyvuXb6-nYKAez3un9cwLrLocQyclm_wgvDPNQ3x-Uj7yysszxsHsUWI9I&usqp=CAU)](https://rishavchanda.io)
+[![MasterHead](https://static.vecteezy.com/system/resources/thumbnails/016/962/517/small/web-site-development-programming-or-coding-banner-free-vector.jpg)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Nabgaoui Khalid</h1>
 <h3 align="center">A passionate web developer from Morocco</h3>
