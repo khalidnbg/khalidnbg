@@ -1,4 +1,12 @@
-[![MasterHead](https://static.vecteezy.com/system/resources/thumbnails/016/962/517/small/web-site-development-programming-or-coding-banner-free-vector.jpg)](https://rishavchanda.io)
+<!-- <div> --> 
+<!--   [![MasterHead](https://static.vecteezy.com/system/resources/thumbnails/016/962/517/small/web-site-development-programming-or-coding-banner-free-vector.jpg)](https://rishavchanda.io) -->
+<!-- </div> -->
+
+<div align="center">
+  <a href="https://rishavchanda.io">
+    <img src="https://static.vecteezy.com/system/resources/thumbnails/016/962/517/small/web-site-development-programming-or-coding-banner-free-vector.jpg" alt="MasterHead"/>
+  </a>
+</div>
 
 <h1 align="center">Hi 👋, I'm Nabgaoui Khalid</h1>
 <h3 align="center">A passionate web developer from Morocco</h3>
