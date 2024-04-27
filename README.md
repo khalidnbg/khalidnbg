@@ -17,7 +17,7 @@
 
 <p align="left"> <a href="https://twitter.com/knbg02" target="blank"><img src="https://img.shields.io/twitter/follow/knbg02?logo=twitter&style=for-the-badge" alt="knbg02" /></a> </p>
 
-- 🔭 I’m currently working on **BLOG with nextJs**
+- 🔭 I’m currently working on **MERN E-commerce web-app**
 
 - 🌱 I’m currently learning **Nextjs, MERN stack**
 
